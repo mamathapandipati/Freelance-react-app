@@ -1,0 +1,261 @@
+
+.add_btn{
+  text-align: right;
+}
+
+.gradient-custom {
+  /* fallback for old browsers */
+  background: #f6d365;
+  
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1));
+  
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1))
+  }
+.bgc{
+  background-color: antiquewhite;
+}
+  
+  .banner{
+    height: 100vh;
+    width: 100%;
+    background:url("../Imges/screen.jpg");
+    background-position: top;
+    background-size:cover;
+    /*background-attachment: fixed;*/
+    background-repeat: no-repeat;
+  }
+.navitem1{
+  font-size:medium;
+
+  text-transform: capitalize;
+}
+.pad{
+  margin: 5%;
+}
+.about{
+margin: 5%;
+background-color: antiquewhite;
+padding: 3%;
+
+}
+.size{
+width: 90%;
+  
+}
+.colr{
+  background-color: aqua;
+}
+.nav-item{
+  font-size: 180%;
+ 
+}
+.drop{
+  font-size:medium;
+color: black;
+background-color: black;
+  text-transform: capitalize;
+}
+.text-center1{
+  background-color: purple;
+  text-align: center;
+  padding: 3%;
+  letter-spacing: normal;
+
+  
+}
+
+
+.heading{
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+}
+.link{
+  color: rgb(9, 9, 24);
+  text-align: center;
+  font-size: large;
+}
+.inp{
+  height: 50px;
+  width: 70%;
+  border: none;
+  outline: none;
+  border-radius: 60px;
+}
+/* .vh-100 img{
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+}
+.login img{
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+.login h1{
+  font-weight: 800;
+  font-size: 4rem;
+}
+*{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+box-sizing: border-box;
+}
+.row{
+background-color: #e91d43;
+border-radius: 30px;
+box-shadow: 12px 12px 22px;
+
+;
+} */
+  .banner .navbar{
+    margin-top:4%;
+  }
+  .banner .navbar-brand{
+    color: white;
+    font-size:1.8em;
+    font-weight: 800;
+
+    margin-left: 10%;
+  }
+  .table .tbody{
+    font-size: 50%;
+  }
+  .fontsice{
+    font-size: large;
+  }
+  .banner .nav{
+    margin-right:10%; 
+  }
+  .banner .nav li a{
+    color:white;
+    font-size: 1.2em;
+  }
+  .banner .info{
+    margin-top:15%;
+    transform: translateY(-15%);
+  }
+  .banner .info h1{
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 2px;
+  }
+  .banner .info p{
+    font-size: 2em;
+    font-weight: 500;
+    color: #aaa;
+    letter-spacing: 2px;
+  }
+  .banner .info a{
+    margin-left:50%;
+    transform: translateX(-50%);
+    color: #fff;
+    background: #e91d43;
+    padding:10px 20px; 
+    font-size: 2em;
+    font-weight: 600;
+  }
+  .banner .info a:hover{
+    background: #e91e63;
+  }
+
+  .gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+    }
+    .gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+    }
+
+    
+    .center{
+      text-align:center;
+   font-size: x-large;
+      
+    }
+   
+   .innerbox{
+    max-width: 600px;
+    height: 400px;
+    background-color: #ccc;
+    margin: 0 auto;
+    padding: 30px;
+   
+   }
+   .butn{
+    align-items: center;
+    color: blue;
+    font-size: medium;
+    margin: 50px;
+
+    
+   
+    
+   }
+  
+  .join{
+    text-align: center;
+
+  }  
+    
+   
+  .outbox{
+    padding: 30px;
+  }
+  .size{
+    font-size: large;
+  }
+ .eobox{
+  font-size: 12px;
+  display :inline;
+  position:relative;
+max-width:300px ;
+height:100px ;
+  background: white;
+  float: left;
+  margin: 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 10px;
+  padding: 25px;
+
+  
+ }
+
+ 
+   .mesg{
+    font-size: xx-large;
+    color: blueviolet;
+   }
+.left1{
+  text-align: right justify;
+}
+.textarea{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 10px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+{
+  "Students": [
+    {
+      
+        "userid": 1,
+        "userName" : "mamatha",
+        "email" : "mamatha@gmail.com",
+        "job" : "developer",
+        "adress" : "calgary",
+        "mobile" : 1234567
+        },
+        {
+        "userid": 2,
+        "userName" : "sajana",
+        "email" :"sajana@gmail.com",
+        "job" : "developer",
+        "adress": "calgary",
+        "mobile" : 1234567
+        },
+        {
+        "userid": 3,
+        "userName" : "lalana",
+        "email" : "lalana@gmail.com",
+        "job" : "developer",
+        "adress": "calgary",
+        "mobile" : 1234567
+        }
+  ]
+}
